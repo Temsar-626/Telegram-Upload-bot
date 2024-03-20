@@ -1,0 +1,12 @@
+absl-py==2.1.0
+config==0.5.1
+dm-env==1.6
+dm-tree==0.1.8
+env==0.1.0
+envlogger==1.2
+logger==1.4
+numpy==1.26.4
+protobuf==5.26.0
+pyaes==1.6.1
+Pyrogram==2.0.106
+PySocks==1.7.1
