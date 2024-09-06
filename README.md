@@ -1,20 +1,31 @@
-# Telegram-Upload-bot
+
+# Telegram Upload bot 🤖
+
 Telegram uploader bot to convert the file into a link so that when others click on the link, the desired file will be sent to them.
 
 
 
-# How to use
+## Deployment
 
-To use, you only need to change the values ​​of config.py, and then run the Bot-One.py file.
+To deploy this project run 🛠
 
+Download project
+```bash
+  git clone https://github.com/Temsar-626/Telegram-Upload-bot.git
+```
+```bash
+  cd Telegram-Upload-bot
+```
+Add api and other information in the file: 
+```bash
+  config.py
+```
+Installing libraries
+```bash
+  pip install requirements.txt
+```
+Start working
+```bash
+  python3 Bot-One.py
+```
 
-
-# ربات آپلودر تلگرام
-
-ربات آپلودر تلگرام برای تبدیل فایل به یک لینک برای اینکه زمانی که دیگران روی لینک کلیک کردند فایل مورد نظر براشون ارسال بشه.
-
-
-
-# نحوه استفاده:
-
-برای استفاده فقط باید مقادیر config.py را تغیر بدهید, و بعد فایل Bot-One.py را اجرا کنید 
